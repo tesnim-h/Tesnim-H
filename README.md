@@ -52,13 +52,13 @@ I enjoy building clean, well-structured solutions and continuously improving my 
 
 <p>
   <a href="https://github.com/tesnim-h">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="30"/>
   </a>
   <a href="TON_LIEN_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="30"/>
   </a>
   <a href="mailto:TON_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="42"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="30"/>
   </a>
 </p>
 
