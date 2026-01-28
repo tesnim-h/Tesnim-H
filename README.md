@@ -48,19 +48,24 @@ I enjoy building clean, well-structured solutions and continuously improving my 
 
 <h3> How to reach me</h3>
 
-<p style="display:flex; gap:14px; align-items:center; flex-wrap:wrap;">
-  <a href="https://github.com/tesnim-h" target="_blank" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="34"/>
+
+<p style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
+  <!-- GitHub -->
+  <a href="https://github.com/tesnim-h" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="TON_LIEN_LINKEDIN" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/>
+  <!-- LinkedIn -->
+  <a href="TON_LIEN_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:TON_EMAIL" target="_blank" title="Email">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34"/>
+  <!-- Email -->
+  <a href="mailto:TON_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+>
 
 
 
