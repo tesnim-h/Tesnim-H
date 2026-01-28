@@ -50,17 +50,60 @@ I enjoy building clean, well-structured solutions and continuously improving my 
 
 <h3>📫 How to reach me</h3>
 
-<p>
-  <a href="https://github.com/tesnim-h">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="30"/>
-  </a>
-  <a href="TON_LIEN_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="30"/>
-  </a>
-  <a href="mailto:TON_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="30"/>
-  </a>
-</p>
+<!-- DIV PRINCIPAL (layout + CSS) -->
+<div style="
+  display: flex;
+  gap: 12px;
+  align-items: center;
+">
+
+  <!-- DIV ICONE 1 -->
+  <div style="
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+    background: #1f2430;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  ">
+    <a href="https://github.com/tesnim-h" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="24"/>
+    </a>
+  </div>
+
+  <!-- DIV ICONE 2 -->
+  <div style="
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+    background: #1f2430;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  ">
+    <a href="TON_LIEN_LINKEDIN" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="24"/>
+    </a>
+  </div>
+
+  <!-- DIV ICONE 3 -->
+  <div style="
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+    background: #1f2430;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  ">
+    <a href="mailto:TON_EMAIL">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="24"/>
+    </a>
+  </div>
+
+</div>
+
 
 
 
