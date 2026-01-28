@@ -48,22 +48,24 @@ I enjoy building clean, well-structured solutions and continuously improving my 
 
 <h3>📫 How to reach me</h3>
 
-<p style="display:flex; gap:10px; align-items:center;">
-  <!-- GitHub -->
-  <a href="https://github.com/tesnim-h" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<div style="
+  display: inline-flex;
+  gap: 10px;
+  align-items: center;
+">
+  <a href="https://github.com/tesnim-h">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28"/>
   </a>
 
-  <!-- LinkedIn -->
-  <a href="TON_LIEN_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="TON_LIEN_LINKEDIN">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
   </a>
 
-  <!-- Email -->
   <a href="mailto:TON_EMAIL">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
   </a>
-</p>
+</div>
+
 
 
 
