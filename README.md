@@ -50,55 +50,52 @@ I enjoy building clean, well-structured solutions and continuously improving my 
 
 <h3>📫 How to reach me</h3>
 
-<div style="
-  display: flex;
-  align-items: center;
-  gap: 14px;
-">
 <p>
   <a href="https://github.com/tesnim-h" target="_blank"
      style="
-       width: 42px;
-       height: 42px;
-       border-radius: 12px;
-       background: #1f2430;
-       display: flex;
-       align-items: center;
-       justify-content: center;
-       text-decoration: none;
+       display:inline-flex;
+       align-items:center;
+       justify-content:center;
+       width:42px;
+       height:42px;
+       border-radius:12px;
+       background:#1f2430;
+       text-decoration:none;
+       margin-right:10px;
      ">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="24"/>
   </a>
 
   <a href="TON_LIEN_LINKEDIN" target="_blank"
      style="
-       width: 42px;
-       height: 42px;
-       border-radius: 12px;
-       background: #1f2430;
-       display: flex;
-       align-items: center;
-       justify-content: center;
-       text-decoration: none;
+       display:inline-flex;
+       align-items:center;
+       justify-content:center;
+       width:42px;
+       height:42px;
+       border-radius:12px;
+       background:#1f2430;
+       text-decoration:none;
+       margin-right:10px;
      ">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="24"/>
   </a>
 
   <a href="mailto:TON_EMAIL"
      style="
-       width: 42px;
-       height: 42px;
-       border-radius: 12px;
-       background: #1f2430;
-       display: flex;
-       align-items: center;
-       justify-content: center;
-       text-decoration: none;
+       display:inline-flex;
+       align-items:center;
+       justify-content:center;
+       width:42px;
+       height:42px;
+       border-radius:12px;
+       background:#1f2430;
+       text-decoration:none;
      ">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="24"/>
   </a>
 </p>
-</div>
+
 
 
 
