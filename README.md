@@ -50,37 +50,18 @@ I enjoy building clean, well-structured solutions and continuously improving my 
 
 <h3>📫 How to reach me</h3>
 
-<div style="display:flex; gap:12px; align-items:center;">
-  <!-- GitHub -->
-  <a href="https://github.com/tesnim-h" target="_blank" title="GitHub"
-     style="display:inline-flex; align-items:center; justify-content:center;
-            width:44px; height:44px; border-radius:12px;
-            background:#1f2430; text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg"
-         alt="GitHub"
-         style="width:22px; height:22px; filter:invert(1);" />
+<p>
+  <a href="https://github.com/tesnim-h">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42"/>
   </a>
+  <a href="TON_LIEN_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42"/>
+  </a>
+  <a href="mailto:TON_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="42"/>
+  </a>
+</p>
 
-  <!-- LinkedIn -->
-  <a href="TON_LIEN_LINKEDIN" target="_blank" title="LinkedIn"
-     style="display:inline-flex; align-items:center; justify-content:center;
-            width:44px; height:44px; border-radius:12px;
-            background:#1f2430; text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg"
-         alt="LinkedIn"
-         style="width:22px; height:22px; filter:invert(1);" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:TON_EMAIL" title="Email"
-     style="display:inline-flex; align-items:center; justify-content:center;
-            width:44px; height:44px; border-radius:12px;
-            background:#1f2430; text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg"
-         alt="Email"
-         style="width:22px; height:22px; filter:invert(1);" />
-  </a>
-</div>
 
 
 
