@@ -50,19 +50,22 @@ I enjoy building clean, well-structured solutions and continuously improving my 
 <h3>📫 How to reach me</h3>
 
 <!-- Petits carrés arrondis (icon-only) -->
+<h3>📫 How to reach me</h3>
+
 <p>
-  <a href="https://github.com/tesnim-h" title="GitHub">
-    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" height="30" />
+  <a href="https://github.com/tesnim-h" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   &nbsp;
-  <a href="TON_LIEN_LINKEDIN" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30" />
+  <a href="TON_LIEN_LINKEDIN" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;
   <a href="mailto:TON_EMAIL" title="Email">
-    <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
+
 
 <p><em>✨ Driven by curiosity, precision, and a passion for learning.</em></p>
 
