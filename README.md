@@ -55,7 +55,7 @@ I enjoy building clean, well-structured solutions and continuously improving my 
   align-items: center;
   gap: 14px;
 ">
-
+<p>
   <a href="https://github.com/tesnim-h" target="_blank"
      style="
        width: 42px;
@@ -97,7 +97,7 @@ I enjoy building clean, well-structured solutions and continuously improving my 
      ">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="24"/>
   </a>
-
+</p>
 </div>
 
 
