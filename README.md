@@ -1,50 +1,40 @@
-<h2>🎓 EDUCATION</h2>
+<h2>Hi, I'm Tesnim 👋</h2>
 
 <p>
-<strong>University of Science and Technology Houari Boumediene (USTHB)</strong><br>
-3rd-year student pursuing a <strong>Bachelor’s Degree in Computer Engineering and Software Engineering</strong><br>
-<em>Expected graduation: June 2026</em>
+🎓 <strong>Computer Science student</strong> with a strong interest in software engineering, data, and digital systems.<br>
+I enjoy building clean, well-structured solutions and continuously improving my technical skills.
 </p>
 
+<h3>🧠 Skills</h3>
+<ul>
+  <li><strong>Languages:</strong> Java, JavaScript, Python</li>
+  <li><strong>Backend:</strong> Spring Boot, Node.js, Express.js, REST API Development</li>
+  <li><strong>Databases:</strong> SQL (MySQL), MongoDB</li>
+  <li><strong>Frontend:</strong> React.js</li>
+  <li><strong>Mobile:</strong> Flutter</li>
+  <li><strong>Tools:</strong> Git & GitHub, VS Code, Postman, IntelliJ IDEA, Eclipse</li>
+</ul>
+
+<h3>💼 Areas of Interest</h3>
+<ul>
+  <li>Software Engineering 💻</li>
+  <li>Backend & Web Development ⚙️</li>
+  <li>Data & Digital Systems 📊</li>
+</ul>
+
+<h3>🤝 Open to</h3>
+<ul>
+  <li>Academic & personal projects 🎓</li>
+  <li>Collaboration & knowledge sharing ✨</li>
+</ul>
+
+<h3>📫 Contact</h3>
 <p>
-<strong>Specialization:</strong><br>
-Databases (SQL), Operating Systems, Software Engineering, Information Systems,  
-Object-Oriented Programming (OOP), Algorithms
+GitHub: <strong>@tesnim-h</strong>
 </p>
 
-<hr>
-
-<h2>🛠️ SKILLS</h2>
-
-<ul>
-  <li>
-    <strong>Frameworks / Languages:</strong>
-    Java, JavaScript, Python, Node.js, Express.js, React.js, REST API Development
-  </li>
-  <li>
-    <strong>Databases:</strong>
-    MySQL, MongoDB
-  </li>
-  <li>
-    <strong>Tools:</strong>
-    VS Code, Postman, Git & GitHub, Eclipse, Oracle, Figma, Canva
-  </li>
-</ul>
-
-<hr>
-
-<h2>💡 INTERESTS</h2>
-
-<ul>
-  <li>Web Development 🌐</li>
-  <li>Mobile App Development 📱</li>
-  <li>Cloud Computing ☁️</li>
-  <li>Data Science & Analytics 📊</li>
-  <li>Entrepreneurship & Startups 🚀</li>
-  <li>Open-Source Projects 💻</li>
-</ul>
-
-
-✨ Driven by curiosity, precision, and a passion for learning.
+<p><em>
+  ✨ Driven by curiosity, precision, and a passion for learning.
 </em></p>
+
 
