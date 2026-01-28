@@ -52,7 +52,7 @@ I enjoy building clean, well-structured solutions and continuously improving my 
 
 <p>
   <a href="https://github.com/tesnim-h" target="_blank" style="display:inline-flex;align-items:center;justify-content:center;width:42px;height:42px;border-radius:12px;background:#1f2430;text-decoration:none;margin-right:10px;"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="28"/></a>&nbsp
-  <a href="TON_LIEN_LINKEDIN" target="_blank" style="display:inline-flex;align-items:center;justify-content:center;width:42px;height:42px;border-radius:12px;background:#1f2430;text-decoration:none;margin-right:10px;"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="28"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/tesnim-hamici-2a9935380/" target="_blank" style="display:inline-flex;align-items:center;justify-content:center;width:42px;height:42px;border-radius:12px;background:#1f2430;text-decoration:none;margin-right:10px;"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="28"/></a>&nbsp
   <a href="mailto:TON_EMAIL" style="display:inline-flex;align-items:center;justify-content:center;width:42px;height:42px;border-radius:12px;background:#1f2430;text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="28"/></a>
 </p>
 
