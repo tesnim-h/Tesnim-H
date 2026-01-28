@@ -47,24 +47,21 @@ I enjoy building clean, well-structured solutions and continuously improving my 
   <li>Collaboration & knowledge sharing ✨</li>
 </ul>
 
-<h3>📫 How to reach me</h3>
 
-<!-- Petits carrés arrondis (icon-only) -->
 <h3>📫 How to reach me</h3>
 
 <p>
-  <a href="https://github.com/tesnim-h" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="30" />
+  <a href="https://github.com/tesnim-h">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/>
   </a>
-
-  <a href="TON_LIEN_LINKEDIN" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  <a href="https://www.linkedin.com/in/TON_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/>
   </a>
-
-  <a href="mailto:TON_EMAIL" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+  <a href="mailto:TON_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40"/>
   </a>
 </p>
+>
 
 
 <p><em>✨ Driven by curiosity, precision, and a passion for learning.</em></p>
