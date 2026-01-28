@@ -50,59 +50,56 @@ I enjoy building clean, well-structured solutions and continuously improving my 
 
 <h3>📫 How to reach me</h3>
 
-<!-- DIV PRINCIPAL (layout + CSS) -->
 <div style="
   display: flex;
-  gap: 12px;
   align-items: center;
+  gap: 14px;
 ">
 
-  <!-- DIV ICONE 1 -->
-  <div style="
-    width: 42px;
-    height: 42px;
-    border-radius: 12px;
-    background: #1f2430;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  ">
-    <a href="https://github.com/tesnim-h" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="24"/>
-    </a>
-  </div>
+  <a href="https://github.com/tesnim-h" target="_blank"
+     style="
+       width: 42px;
+       height: 42px;
+       border-radius: 12px;
+       background: #1f2430;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       text-decoration: none;
+     ">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="24"/>
+  </a>
 
-  <!-- DIV ICONE 2 -->
-  <div style="
-    width: 42px;
-    height: 42px;
-    border-radius: 12px;
-    background: #1f2430;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  ">
-    <a href="TON_LIEN_LINKEDIN" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="24"/>
-    </a>
-  </div>
+  <a href="TON_LIEN_LINKEDIN" target="_blank"
+     style="
+       width: 42px;
+       height: 42px;
+       border-radius: 12px;
+       background: #1f2430;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       text-decoration: none;
+     ">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="24"/>
+  </a>
 
-  <!-- DIV ICONE 3 -->
-  <div style="
-    width: 42px;
-    height: 42px;
-    border-radius: 12px;
-    background: #1f2430;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  ">
-    <a href="mailto:TON_EMAIL">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="24"/>
-    </a>
-  </div>
+  <a href="mailto:TON_EMAIL"
+     style="
+       width: 42px;
+       height: 42px;
+       border-radius: 12px;
+       background: #1f2430;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       text-decoration: none;
+     ">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="24"/>
+  </a>
 
 </div>
+
 
 
 
